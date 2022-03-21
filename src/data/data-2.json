@@ -1,0 +1,44 @@
+{
+  "squadName": "Super hero squad",
+  "homeTown": "Metro City",
+  "formed": 2016,
+  "secretBase": "Super tower",
+  "active": true,
+  "members": [
+    {
+      "nom": "Molecule Man",
+      "age": 29,
+      "id": 3,
+      "prenom": "nada",
+      "powers": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "nom": "Madame Uppercut",
+      "age": 39,
+      "id": 2,
+      "prenom": "pas nada",
+      "powers": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "nom": "Eternal Flame",
+      "age": 10,
+      "id": 1,
+      "prenom": "nada deux",
+      "powers": [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
